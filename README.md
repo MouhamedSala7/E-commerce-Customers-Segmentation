@@ -12,7 +12,7 @@ The dataset consists of five interrelated tables, containing crucial information
 
 ### 1. Customers Table
 - `customer_id`: Unique identifier for each customer.
-- `join_date`: The date the customer joined.![Uploading E-commerce.png…]()
+- `join_date`: The date the customer joined.
 
 - `city_id`: The ID representing the customer's city.
 - `gender_id`: The ID representing the customer's gender.
