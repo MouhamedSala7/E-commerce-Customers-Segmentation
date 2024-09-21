@@ -4,8 +4,8 @@
 
 Below is a snapshot of the dashboard developed for visualizing customer demographics, coupon transactions, top-performing cities/branches, and customer retention trends:
 
-![E-commerce Dashboard](.![E-commerce](https://github.com/user-attachments/assets/dba4dbdb-2aea-4893-a165-15409e0700b7)
-/assets/E-commerce.png)
+(.![E-commerce](https://github.com/user-attachments/assets/dba4dbdb-2aea-4893-a165-15409e0700b7)
+
 
 ## 📌 Dataset Overview
 The dataset consists of five interrelated tables, containing crucial information about customers, transactions, branches, and merchants. These tables are described below:
