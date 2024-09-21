@@ -77,10 +77,5 @@ In addition to dashboard creation, the project also involves building an unsuper
 4. **Segment Analysis**:
    - Analyze customer groups based on transaction patterns and behavior.
 
-## 📌 Installation & Usage
 
-### 1. Clone the Repository
-To use this project, clone the repository locally:
-```bash
-git clone https://github.com/yourusername/ecommerce-customers-segmentation.git
-cd ecommerce-customers-segmentation
+
