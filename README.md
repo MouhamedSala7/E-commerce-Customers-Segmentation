@@ -73,9 +73,11 @@ In addition to dashboard creation, the project also involves building an unsuper
    
 3. **Model Evaluation**:
    - Evaluate using metrics such as Silhouette Score and Inertia for K-Means.
-   
+   ![Screenshot 2024-09-21 154830](https://github.com/user-attachments/assets/1eda83ee-64cd-417d-8430-1d5e42491066)
+
 4. **Segment Analysis**:
    - Analyze customer groups based on transaction patterns and behavior.
+![Screenshot 2024-09-21 155045](https://github.com/user-attachments/assets/204a666a-0848-4966-9a62-0142c9579d2e)
 
 
 
